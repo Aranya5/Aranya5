@@ -1,5 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently working on transitioning from theory to practice by building real-world applications.<br><br>👯 I’m looking to collaborate on beginner-friendly open-source projects where I can make my first meaningful contributions.<br><br>🤝 I’m looking for help with code reviews and best practices for writing clean, maintainable software.<br><br>🌱 I’m currently learning full-stack development and cloud deployment basics.<br><br>💬 Ask me about my roadmap, the tech stack I love, or the bugs I squashed today.
+# Hi there, I'm Aranya Basu 👋
+### Adaptive Full-Stack Engineer
+
+Welcome to my GitHub! I'm a Computer Science and Engineering student passionate about bridging the gap between intuitive design and robust engineering. 
+
+## 💫 About Me:
+* 🔭 **I’m currently working on:** Transitioning from theory to practice by building real-world applications, including computer vision systems like **ShelfMate** and AI-driven platforms like **Strawhats**.
+* 🌱 **I’m currently learning:** Full-stack development, AWS cloud deployment basics, and diving into **Rust** for system-level projects.
+* 👯 **I’m looking to collaborate on:** Beginner-friendly open-source projects where I can make my first meaningful contributions, particularly around the MERN stack or React Native.
+* 🤝 **I’m looking for help with:** Code reviews and best practices for writing clean, scalable, and maintainable software.
+* 🎨 **When I'm away from the keyboard:** I'm likely designing UI/UX prototypes in Figma or helping organize technical fests and conferences.
+* 💬 **Ask me about:** My development roadmap, applying YOLO frameworks to real-world problems, the tech stack I love, or the bugs I squashed on my M1 Mac today!
 
 
 ## 🌐 Socials:
