@@ -1,34 +1,74 @@
-# Hi there, I'm Aranya Basu 👋
-### Adaptive Full-Stack Engineer
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Aranya+Basu+👋;Full-Stack+Engineer+|+AI/ML;MERN+|+React+Native+|+Python" alt="Typing SVG" />
+  </a>
+</div>
 
-Welcome to my GitHub! I'm a Computer Science and Engineering student passionate about bridging the gap between intuitive design and robust engineering. 
+<br/>
 
-## 💫 About Me:
-* 🔭 **I’m currently working on:** Transitioning from theory to practice by building real-world applications, including computer vision systems like **ShelfMate** and AI-driven platforms like **Strawhats**.
-* 🌱 **I’m currently learning:** Full-stack development, AWS cloud deployment basics, and diving into **Rust** for system-level projects.
-* 👯 **I’m looking to collaborate on:** Beginner-friendly open-source projects where I can make my first meaningful contributions, particularly around the MERN stack or React Native.
-* 🤝 **I’m looking for help with:** Code reviews and best practices for writing clean, scalable, and maintainable software.
-* 🎨 **When I'm away from the keyboard:** I'm likely designing UI/UX prototypes in Figma or helping organize technical fests and conferences.
-* 💬 **Ask me about:** My development roadmap, applying YOLO frameworks to real-world problems, the tech stack I love, or the bugs I squashed on my M1 Mac today!
+<div align="center">
+  <img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E1a2J6ZTVxeHhoZ3h3Nnd5Z3R6ZTFxeHhoZ3h3Nnd5Z3R6ZTFxeHhoZ3g/qgQUggAC3Pfv687qPC/giphy.gif" alt="Lofi Coder Animation" />
+  
+  <h3 align="left">👨‍💻 About Me</h3>
+  <p align="left">
+    I am a Computer Science undergraduate at Heritage Institute of Technology, Kolkata (graduating June 2027)[cite: 5]. I specialize in full-stack engineering with the MERN stack, Python, and AI/ML systems[cite: 5].
+  </p>
+  
+  <ul align="left">
+    <li>🔭 Currently building <strong>ShelfMate</strong>, a computer vision project for retail analytics, and expanding my custom 2D Java game engine for <strong>Retro Quest</strong>[cite: 25].</li>
+    <li>🌱 Actively utilizing the MERN stack, Python, and applied machine learning (TensorFlow/Keras) [cite: 5, 14] on my M1 MacBook.</li>
+    <li>🏆 First-place winner at <strong>Hack Heritage 2.0</strong> for an AI-powered agricultural platform[cite: 6].</li>
+    <li>🎨 Passionate about UI/UX and crafting minimalist, tech-oriented digital experiences.</li>
+    <li>📫 Reach me at: <strong>basuaranya5@gmail.com</strong> [cite: 3]</li>
+  </ul>
+</div>
 
+<br/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aranya.verse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aranya-basu-80437b359/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basuaranya5@gmail.com) 
+<h3 align="left">🛠️ Tech Stack & Tools</h3>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-# 📊 GitHub Stats:
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aranya5&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Aranya5" /></p> -->
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-1A1B26?style=for-the-badge&logo=javascript&logoColor=E0AF68" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-1A1B26?style=for-the-badge&logo=typescript&logoColor=7AA2F7" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-1A1B26?style=for-the-badge&logo=python&logoColor=E0AF68" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-1A1B26?style=for-the-badge&logo=java&logoColor=F7768E" alt="Java" />
+  <br/>
+  <img src="https://img.shields.io/badge/React-1A1B26?style=for-the-badge&logo=react&logoColor=7AA2F7" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-1A1B26?style=for-the-badge&logo=react&logoColor=7AA2F7" alt="React Native" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1A1B26?style=for-the-badge&logo=tailwind-css&logoColor=7AA2F7" alt="Tailwind" />
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-1A1B26?style=for-the-badge&logo=nodedotjs&logoColor=9ECE6A" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-1A1B26?style=for-the-badge&logo=express&logoColor=C0CAF5" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-1A1B26?style=for-the-badge&logo=mongodb&logoColor=9ECE6A" alt="MongoDB" />
+  <br/>
+  <img src="https://img.shields.io/badge/TensorFlow-1A1B26?style=for-the-badge&logo=tensorflow&logoColor=FF9E64" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-1A1B26?style=for-the-badge&logo=opencv&logoColor=F7768E" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/AWS-1A1B26?style=for-the-badge&logo=amazonwebservices&logoColor=FF9E64" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-1A1B26?style=for-the-badge&logo=docker&logoColor=7AA2F7" alt="Docker" />
+</div>
 
-<!-- ![Aranya5's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aranya5&show_icons=true&theme=tokyonight&include_all_commits=true) -->
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aranya5&theme=tokyonight" alt="Aranya5" /></p>
+<h3 align="left">🚀 Featured Projects</h3>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aranya5&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [cite_start]**[AAB-O-HAWA](https://github.com/Aranya5/Un4gettable)** [cite: 18] | [cite_start]A full-stack civic crowdsourcing platform for real-time issue reporting[cite: 22]. [cite_start]Engineered with live Socket.io collaboration and Cloudinary integration[cite: 23]. | [cite_start]`React`, `TypeScript`, `Node.js`, `MongoDB` [cite: 19] |
+| [cite_start]**[Straw-hats](https://github.com/Aranya5/Strawhats)** [cite: 30] | [cite_start]AI-driven crop disease management system[cite: 30]. [cite_start]Features a CNN trained on 13,000+ images with a scalable backend for <200ms real-time inference[cite: 32, 33]. | [cite_start]`Python`, `TensorFlow`, `FastAPI` [cite: 30] |
+| [cite_start]**[Retro Quest](https://github.com/Aranya5/Retro-Quest)** [cite: 25] | [cite_start]Custom 2D adventure game engine featuring complex physics and AABB collision detection[cite: 28]. | [cite_start]`Java`, `OOP` [cite: 26] |
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aranya5&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Aranya5&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="left">📊 GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aranya5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" alt="Aranya's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aranya5&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=FF9E64&currStreakNum=C0CAF5" alt="Aranya's GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/aranya-basu-80437b359"><img src="https://img.shields.io/badge/LinkedIn-1A1B26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn" /></a>
+</div>icon=0&color=0)](https://visitcount.itsvg.in)
