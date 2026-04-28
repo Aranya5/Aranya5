@@ -72,11 +72,59 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aranya5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&include_all_commits=true" alt="Aranya's GitHub Stats" />
   <br/><br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aranya5&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+    <br/><br/>
+  <div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Aranya5&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+
+</div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aranya5&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=FF9E64&currStreakNum=C0CAF5" alt="Aranya's GitHub Streak" />
 </div>
 
 <br/>
 
+## 🌊 &nbsp;Contribution Activity
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/aranya-basu-80437b359"><img src="https://img.shields.io/badge/LinkedIn-1A1B26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn" /></a>
+
+[![Aranya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aranya5&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+## 📬 &nbsp;Let's Connect
+
+<div align="center">
+
+I'm actively looking for **internships** and **research opportunities** in backend engineering and applied ML.
+
+Got a cool project? Want to collaborate? Just want to talk tech?
+
+**Reach out — I respond fast. 🚀**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aranya-basu-80437b359)
+&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basuaranya5@gmail.com)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aranya5)
+
+<br/>
+
+---
+
+<sub>📍 &nbsp;Barasat, West Bengal · Open to remote & on-site opportunities across India</sub>
+
+<br/>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Aranya5.Aranya5&left_color=1f6feb&right_color=58a6ff)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
