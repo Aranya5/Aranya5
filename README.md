@@ -74,9 +74,9 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aranya5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&include_all_commits=true" alt="Aranya's GitHub Stats" />
-  <br/><br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aranya5&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&text_color=C0CAF5&langs_count=8"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Aranya5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&include_all_commits=true" alt="Aranya's GitHub Stats" />
+  &nbsp;
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aranya5&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&text_color=C0CAF5&langs_count=8"/>
   <br/><br/>
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Aranya5&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=FF9E64&currStreakLabel=7AA2F7)](https://git.io/streak-stats)
@@ -106,7 +106,7 @@
 
   <br/><br/>
 
-  <sub>📍 &nbsp;Barasat, West Bengal · Open to remote & on-site opportunities across India</sub>
+  <sub>📍 &nbsp;Barasat, North 24 Parganas, West Bengal · Open to remote & on-site opportunities across India</sub>
 
   <br/><br/>
 
