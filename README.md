@@ -2,6 +2,10 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Aranya+Basu+👋;Full-Stack+Engineer+|+AI/ML;MERN+|+React+Native+|+Python" alt="Typing SVG" />
   </a>
+  <br/><br/>
+  <a href="https://portfolio-aranya.vercel.app/">
+    <img src="https://img.shields.io/badge/View_My_Portfolio-1A1B26?style=for-the-badge&logo=vercel&logoColor=7AA2F7" alt="Portfolio" />
+  </a>
 </div>
 
 <br/>
@@ -56,7 +60,7 @@
   <img src="https://img.shields.io/badge/Keras-1A1B26?style=for-the-badge&logo=keras&logoColor=F7768E" alt="Keras" />
   <img src="https://img.shields.io/badge/OpenCV-1A1B26?style=for-the-badge&logo=opencv&logoColor=F7768E" alt="OpenCV" />
   <br/>
- <img src="https://img.shields.io/badge/AWS-1A1B26?style=for-the-badge&logo=amazonaws&logoColor=FF9E64" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS-1A1B26?style=for-the-badge&logo=amazonaws&logoColor=FF9E64" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-1A1B26?style=for-the-badge&logo=docker&logoColor=7AA2F7" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-1A1B26?style=for-the-badge&logo=git&logoColor=FF9E64" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-1A1B26?style=for-the-badge&logo=github&logoColor=C0CAF5" alt="GitHub" />
@@ -72,51 +76,43 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aranya5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&include_all_commits=true" alt="Aranya's GitHub Stats" />
   <br/><br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aranya5&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
-    <br/><br/>
-  <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aranya5&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&text_color=C0CAF5&langs_count=8"/>
+  <br/><br/>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Aranya5&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=FF9E64&currStreakLabel=7AA2F7)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Aranya5&theme=tokyonight&hide_border=true&background=1A1B26&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+  <br/><br/>
 
-<br/>
-
-<div align="center">
-
-[![Aranya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aranya5&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Aranya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aranya5&bg_color=1A1B26&color=C0CAF5&line=7AA2F7&point=BB9AF7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 <br/>
-📬 &nbsp;Let's Connect
+
+<h3 align="center">📬 Let's Connect</h3>
 
 <div align="center">
+  <p>I'm actively looking for <strong>internships</strong> and <strong>research opportunities</strong> in software development, frontend & backend engineering, and applied ML.</p>
+  <p>Got a cool project? Want to collaborate? Just want to talk tech?</p>
+  <p><strong>Reach out — I respond fast. 🚀</strong></p>
 
-I'm actively looking for **internships** and **research opportunities** in software development, frontend & backend engineering and applied ML.
+  <br/>
 
-Got a cool project? Want to collaborate? Just want to talk tech?
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1A1B26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7)](https://www.linkedin.com/in/aranya-basu-80437b359)
+  &nbsp;&nbsp;
+  [![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-1A1B26?style=for-the-badge&logo=gmail&logoColor=7AA2F7)](mailto:basuaranya5@gmail.com)
+  &nbsp;&nbsp;
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-1A1B26?style=for-the-badge&logo=github&logoColor=7AA2F7)](https://github.com/Aranya5)
 
-**Reach out — I respond fast. 🚀**
+  <br/><br/>
 
-<br/>
+  <sub>📍 &nbsp;Barasat, West Bengal · Open to remote & on-site opportunities across India</sub>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aranya-basu-80437b359)
-&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basuaranya5@gmail.com)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aranya5)
+  <br/><br/>
 
-<br/>
-
-
-<sub>📍 &nbsp;Barasat, West Bengal · Open to remote & on-site opportunities across India</sub>
-
-<br/>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Aranya5.Aranya5&left_color=1f6feb&right_color=58a6ff)
-
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Aranya5.Aranya5&left_color=1A1B26&right_color=7AA2F7)
 </div>
 
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=100&section=footer&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
