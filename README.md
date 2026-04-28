@@ -76,15 +76,9 @@
     <br/><br/>
   <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Aranya5&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff)](https://git.io/streak-stats)
-
-</div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aranya5&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=FF9E64&currStreakNum=C0CAF5" alt="Aranya's GitHub Streak" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Aranya5&theme=tokyonight&hide_border=true&background=1A1B26&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff)](https://git.io/streak-stats)
 
 <br/>
-
-## 🌊 &nbsp;Contribution Activity
 
 <div align="center">
 
@@ -93,11 +87,11 @@
 </div>
 
 <br/>
-## 📬 &nbsp;Let's Connect
+📬 &nbsp;Let's Connect
 
 <div align="center">
 
-I'm actively looking for **internships** and **research opportunities** in backend engineering and applied ML.
+I'm actively looking for **internships** and **research opportunities** in software development, frontend & backend engineering and applied ML.
 
 Got a cool project? Want to collaborate? Just want to talk tech?
 
@@ -113,7 +107,6 @@ Got a cool project? Want to collaborate? Just want to talk tech?
 
 <br/>
 
----
 
 <sub>📍 &nbsp;Barasat, West Bengal · Open to remote & on-site opportunities across India</sub>
 
@@ -123,7 +116,6 @@ Got a cool project? Want to collaborate? Just want to talk tech?
 
 </div>
 
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer&fontColor=ffffff&animation=fadeIn" width="100%"/>
