@@ -82,8 +82,10 @@
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Aranya5&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=FF9E64&currStreakLabel=7AA2F7)](https://git.io/streak-stats)
 
   <br/><br/>
-
+<!--
   [![Aranya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aranya5&bg_color=1A1B26&color=C0CAF5&line=7AA2F7&point=BB9AF7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  -->
 
 </div>
 
