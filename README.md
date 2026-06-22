@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Aranya+Basu+👋;Full-Stack+Engineer+|+AI/ML;MERN+|+React+Native+|+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Aranya+Basu+👋;Full-Stack+Engineer+|+AI/ML;MERN+|+React+Native+|+Python+GenAI+" alt="Typing SVG" />
   </a>
   <br/><br/>
   <a href="https://portfolio-aranya.vercel.app/">
